@@ -1,4 +1,5 @@
-# Yearly-data-cleaning-GOLD
+# Yearly-data-cleaning-currency
+
 
 **Author:** Vani Priya ([@vani-priya-g](https://github.com/vani-priya-g))  
 **Last updated:** April 2025
